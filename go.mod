@@ -1,3 +1,3 @@
 module github.com/itsZidd/go-research-article-agg-summ.git
 
-go 1.24.4
+go 1.24
